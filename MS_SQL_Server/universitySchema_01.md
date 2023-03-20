@@ -1,3 +1,4 @@
+PDF of [University Schema](https://github.com/tan45Nadim/cs-learning-resources/blob/main/MS_SQL_Server/universitySchema.pdf)
 
 ```sql=
 create database universityDB
